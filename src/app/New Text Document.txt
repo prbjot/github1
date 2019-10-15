@@ -1,0 +1,9 @@
+class binding 
+property binding
+
+write the program with 5 buttons every button has a different event associate with ot print the source and type of event on each event occurance.
+22 oct
+4 nov
+
+
+passing string value as an input value is acceptable only if its size b/w 5-8 characters.also you are passing age of thr candidate if this age b/w 20-25 yr candidate eligiable.
